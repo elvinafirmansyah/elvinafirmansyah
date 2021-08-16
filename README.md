@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/https:/)
+![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/https://sc01.alicdn.com/kf/HTB11RBuIVXXXXcXaXXXq6xXFXXX7/221933257/HTB11RBuIVXXXXcXaXXXq6xXFXXX7.jpg)
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
