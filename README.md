@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/)
+![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/https://p4.wallpaperbetter.com/wallpaper/461/867/646/anime-cool-guy-hair-wallpaper-preview.jpg)
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
