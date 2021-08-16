@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/banner1.png)
+![alt text](https://raw.githubusercontent.com/elvirafimansyah/elvirafimansyah/main/)
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
