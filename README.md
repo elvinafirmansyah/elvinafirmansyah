@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Mak Beti
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/740407063611572234)](https://discord.com/users/:id)
