@@ -12,27 +12,6 @@
 </div>
 &nbsp;
 
-<p align="right">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
- <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
-</p>
-
-<p align="right">
-  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
-  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
-  <img width="20%" src="https://user-images.githubusercontent.com/74690464/141611927-0059ec60-0e48-4d27-bf7d-8c366369ff1d.png">
-  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
-  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
-</p>
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -62,7 +41,27 @@
 <a href="https://elvinafirmansyah.github.io/VIZFA/"></a>
 
 
-![thanks](https://user-images.githubusercontent.com/85095985/147439931-fd4b1f0a-b531-4c91-a995-608cedb0c8ed.gif)
+<p align="right">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+</p>
+
+<p align="right">
+  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
+  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
+  <img width="20%" src="https://user-images.githubusercontent.com/74690464/141611927-0059ec60-0e48-4d27-bf7d-8c366369ff1d.png">
+  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
+  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
+</p>
 
 
 
