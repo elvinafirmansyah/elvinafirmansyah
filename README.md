@@ -1,9 +1,8 @@
-<h1 align="center" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
+<h1 align="left" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
-
-<div align="center">
-<h2 align="center">About Me :standing_woman:</h2>
+<h2 align="right">About Me :standing_woman:</h2>
+<div align="left">
 
 :ghost:  I’m currently Junior High School.<br>
 :space_invader:  I’m currently learning Javascript and Design for Now<br>
@@ -13,7 +12,7 @@
 </div>
 &nbsp;
 
-<p align="center">
+<p align="right">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
@@ -27,7 +26,7 @@
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
 </p>
 
-<p align="center">
+<p align="right">
   <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
   <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
   <img width="20%" src="https://user-images.githubusercontent.com/74690464/141611927-0059ec60-0e48-4d27-bf7d-8c366369ff1d.png">
@@ -42,8 +41,8 @@
                             )](https://discord.com/users/902188905376415826)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/elvinafirmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elvinafirmansyah" height="30" width="40" /></a>
 <a href="https://fb.com/elvina firmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elvina firmansyah" height="30" width="40" /></a>
 <a href="https://instagram.com/elvinaelvira.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvinaelvira.s" height="30" width="40" /></a>
