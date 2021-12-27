@@ -1,4 +1,4 @@
-![GitHub banner](banner.png)
+![GitHub](banner.png)
 ### Hi there 👋
 
 Here are some ideas to get you started:
