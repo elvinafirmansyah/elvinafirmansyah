@@ -1,5 +1,4 @@
-![GitHub Logo](banner.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/banner.png)
 ### Hi there 👋
 
 Here are some ideas to get you started:
