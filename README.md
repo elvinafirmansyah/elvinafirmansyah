@@ -1,4 +1,4 @@
-![GitHub Logo](/banner.png)
+<img src="https://fullpath/assets/yourgif.gif" width="400" height="790">
 ### Hi there 👋
 
 Here are some ideas to get you started:
