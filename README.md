@@ -1,5 +1,5 @@
 ![GitHub](/banner.png)
-### Hi there 👋
+<h1>HI, I'm Elvina Firmansyah</h1>
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
