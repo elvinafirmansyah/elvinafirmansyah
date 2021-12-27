@@ -13,7 +13,9 @@
 &nbsp;
 
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/902188905376415826
