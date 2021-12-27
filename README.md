@@ -1,4 +1,4 @@
-# <img alt='' src='https://gitea.com/repo-avatars/550-80a3a8c2ab0e2c2d69f296b7f8582485' height="40"/>
+![GitHub banner](banner.png)
 ### Hi there 👋
 
 Here are some ideas to get you started:
