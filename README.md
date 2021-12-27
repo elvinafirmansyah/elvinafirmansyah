@@ -1,16 +1,46 @@
-![GitHub](/banner.png)
-<h1>HI, I'm Elvina Firmansyah</h1>
+<h1 align="center" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
+<img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning JavaScript
-- ⚡ Fun fact: Mak Beti
-- I like UI UX Design
+
+<div align="center">
+<h2 align="center">About Me :standing_woman:</h2>![298231fa25a6cdfdde74c0f95bca37c4](https://user-images.githubusercontent.com/85095985/147439741-ed1456f3-c95c-42b0-8ab6-6bcf55e6c5ac.gif)
+
+:ghost:  I’m currently Junior High School.<br>
+:space_invader:  I’m currently learning Javascript and Design for Now<br>
+:blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
+:dizzy: Fun fact: I Like English and Artificial Intelligence<br>
+:thought_balloon: Do you want contact me? :point_right: http://elvinaf.xyz/ 
+</div>
+&nbsp;
+
+<p align="center">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+ <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
+</p>
+
+<p align="center">
+  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
+  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
+  <img width="20%" src="https://user-images.githubusercontent.com/74690464/141611927-0059ec60-0e48-4d27-bf7d-8c366369ff1d.png">
+  <img width="5%" src="https://user-images.githubusercontent.com/74690464/141611913-dea0ea27-eaf6-4ddc-a3cd-d8972e9f94da.gif">
+  <img width="10%" src="https://user-images.githubusercontent.com/74690464/141612037-afac1948-5ffe-4c62-96b0-0b7ee12c6f93.gif">
+</p>
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/902188905376415826
                             )](https://discord.com/users/902188905376415826)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +62,8 @@ Here are some ideas to get you started:
 <a href="https://elvinafirmansyah.github.io/blackpink/"></a>
 <a href="https://elvinafirmansyah.github.io/VIZFA/"></a>
 
+
+
+![Uploading 298231fa25a6cdfdde74c0f95bca37c4.gif…]()
 
 
