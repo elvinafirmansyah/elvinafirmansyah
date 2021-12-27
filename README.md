@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<h2 align="center">About Me :standing_woman:</h2>![298231fa25a6cdfdde74c0f95bca37c4](https://user-images.githubusercontent.com/85095985/147439741-ed1456f3-c95c-42b0-8ab6-6bcf55e6c5ac.gif)
+<h2 align="center">About Me :standing_woman:</h2>
 
 :ghost:  I’m currently Junior High School.<br>
 :space_invader:  I’m currently learning Javascript and Design for Now<br>
@@ -63,7 +63,7 @@
 <a href="https://elvinafirmansyah.github.io/VIZFA/"></a>
 
 
+![thanks](https://user-images.githubusercontent.com/85095985/147439931-fd4b1f0a-b531-4c91-a995-608cedb0c8ed.gif)
 
-![Uploading 298231fa25a6cdfdde74c0f95bca37c4.gif…]()
 
 
