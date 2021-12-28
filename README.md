@@ -12,7 +12,7 @@
 </div>
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/85095985/147545394-f6778bfe-ba91-477d-aa0a-bcb2510583b9.gif" width="100%/>
+<img src="https://user-images.githubusercontent.com/85095985/147545394-f6778bfe-ba91-477d-aa0a-bcb2510583b9.gif" width="100%>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
