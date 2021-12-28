@@ -4,7 +4,7 @@
 <h2 align="right">About Me :standing_woman:</h2>
 <div align="left">
 
-  <img src="https://user-images.githubusercontent.com/85095985/147546698-c0713190-533a-4bff-9317-098c3718e79d.gif" width="300" height="300" align="right">
+  <img src="https://user-images.githubusercontent.com/85095985/147546698-c0713190-533a-4bff-9317-098c3718e79d.gif" width="400" height="400" align="right">
   
 :ghost:  I’m currently Junior High School.<br>
 :space_invader:  I’m currently learning Javascript and Design for Now<br>
