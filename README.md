@@ -5,7 +5,7 @@
 <div align="left">
   
 :ghost:  I’m currently in Junior High School.<br>
-:space_invader:  I’m currently learning JS, React and Design for Now<br>
+:space_invader:  I’m currently learning JS, React and Design<br>
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
 :dizzy: Fun fact: I Like English and Artificial Intelligence<br>
 :thought_balloon: Do you want contact me? :point_right: http://elvinaf.xyz/ 
