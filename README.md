@@ -9,6 +9,7 @@
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
 :dizzy: Fun fact: I Like English and Artificial Intelligence<br>
 :thought_balloon: Do you want contact me? :point_right: http://elvinaf.xyz/ 
+:e-mail: Email: elvinafirmansyah@gmail.com
 </div>
 &nbsp;
 
