@@ -4,10 +4,16 @@
 <h2 align="right">About Me :standing_woman:</h2>
 <div align="left">
   
+:performing_arts:	I’m Elvina Firmansyah who loves design and kinds of coding stuff. I'm a designer and web developer based in Indonesia. I'm currently interested and focused on learning React JS & Javascript that make lots of thing in the world as well, mainly the career and my experience of my future. Mostly all of my days are filled by coding, developing as both good as well as designing wonderful websites and other projects which i have ever made such as development and UI/UX design projects. I've been coding for a year and enjoyed what i have done recently, every parts of my journey exactly. My main focus these months is building accessible of being able to make lots of knowledge and digital experiences for variety and career of clients and my life.
+
+I'm excited to be a part of communities or industries that improves me about building the experiences and career of mine. i've personally been posting kinds of coding stuff and everything else on my blog that's be just made on Blogger
+
+When i'm working on teams, i tailor my approach to all your need. i constantly focus on achieving the best results for who i'm currently working with, while being able to understand what the requirements that will be, along way to promote growth of provide my experiences mainly. <br>
+  
 :space_invader:  I’m currently learning JS, React and Design<br>
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
 :dizzy: Fun fact: I Like English and Artificial Intelligence<br>
-:thought_balloon: Do you want contact me? :point_right: https://elvinaf.netlify.app/ in progress <br>
+:thought_balloon: Do you want contact me? :point_right: https://elvinaf.xyz/<br>
 :e-mail: Email: elvinafirmansyah@gmail.com
 </div>
 &nbsp;
