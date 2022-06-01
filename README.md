@@ -14,7 +14,7 @@ When i'm working on teams, i tailor my approach to all your need. i constantly f
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
 :dizzy: Fun fact: I Like English and Artificial Intelligence<br>
 :thought_balloon: Do you want contact me? :point_right: https://elvinaf.xyz/<br>
-:e-mail: Email: elvinafirmansyah@gmail.com
+:e-mail: How to reach me: elvinafirmansyah@gmail.com
 </div>
 &nbsp;
 
