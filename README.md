@@ -11,7 +11,7 @@ I'm excited to be a part of communities or industries that improves me about bui
 :space_invader:  I’m currently learning JS, React and Design<br>
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
 :dizzy: Fun fact: I absolutely love to learn English and Artificial Intelligence<br>
-:thought_balloon: Do you want contact me? :point_right: https://elvinaf.xyz/<br>
+:thought_balloon: Do you want contact me? :point_right: https://elvina.vercel.app/<br>
 :e-mail: How to reach me: elvinafirmansyah@gmail.com <br>
 :woman_teacher: How to support me: <a href="https://www.buymeacoffee.com/elvinafirmh">Buy me a Coffee</a> <br>
 </div>
