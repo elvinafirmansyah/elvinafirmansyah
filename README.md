@@ -1,7 +1,7 @@
 <h1 align="left" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
-<img src='https://readme-typing-svg.herokuapp.com?color=134BF7&lines=UI%26UX+Designer;Front+End+Developer'></img>
+<img src='https://readme-typing-svg.herokuapp.com?color=301DF7&lines=UI%26UX+Designer;Front+End+Developer'></img>
 
 <div align="left">
   
