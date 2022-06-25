@@ -2,7 +2,7 @@
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
 <div align="left">
-  <img src='https://readme-typing-svg.herokuapp.com?color=301DF7&lines=UI%26UX+Designer;Front+End+Developer'></img>
+  <img src='https://readme-typing-svg.herokuapp.com?color=301DF7&lines=Front+End+Developer;UI%26UX+Designer'></img>
 </div>
 
 <div align="left">
