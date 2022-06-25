@@ -1,8 +1,8 @@
 <h1 align="left" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fff200&left=true&vLeft=true&lines=Front+End+Developer;UX/UI+Designer;">
+<h2 align="left">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=134BF7&lines=UI+Designer)](https://git.io/typing-svg)
 </h2>
 <div align="left">
   
