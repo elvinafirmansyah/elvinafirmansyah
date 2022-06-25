@@ -2,7 +2,7 @@
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
 <h2 align="left">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=134BF7&lines=UI+Designer)](https://git.io/typing-svg)
+  <img src='[https://readme-typing-svg.herokuapp.com?color=134BF7&lines=Front+End+Designer](https://readme-typing-svg.herokuapp.com?color=134BF7&lines=Front+End+Developer;UI/UX+Designer)'></img>
 </h2>
 <div align="left">
   
