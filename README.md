@@ -1,4 +1,4 @@
-<h1 align="left" font-weight="bold">Hi, I'm Elvina 	:girl:</h1>
+<h1 align="left" font-weight="bold">Hi, I'm Elvina 	:woman_technologist:</h1>
 <img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
 
 <div align="left">
