@@ -22,7 +22,7 @@ I'm excited to be a part of communities or industries that improves me about bui
 
 
 
-
+![Elvina's Stats Private](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Elvina Langs](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah)](https://github.com/elvinafirmansyah/github-readme-stats)
 
