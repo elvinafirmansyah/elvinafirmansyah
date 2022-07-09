@@ -23,8 +23,8 @@ I'm excited to be a part of communities or industries that improves me about bui
 
 ![Elvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvinafirmansyah&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinafirmansyah&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Elvina's State](https://raw.githubusercontent.com/elvinafirmansyah/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&layout=compact)](https://github.com/elvinafirmansyah/github-readme-stats)
 
 [![Discord Presence align="right" ](https://lanyard-profile-readme.vercel.app/api/902188905376415826
                             )](https://discord.com/users/902188905376415826)
