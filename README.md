@@ -7,13 +7,13 @@
 
 <div align="left">
   
-:performing_arts:	I’m Elvina Firmansyah who loves design and kinds of coding stuff. I'm a designer and web developer based in Indonesia. I'm currently interested and focused on learning React JS & Javascript that make lots of thing in the world as well, mainly the career and my experience of my future. Mostly all of my days are filled by coding, developing as both good as well as designing wonderful websites and other projects which i have ever made such as development and UI/UX design projects. I've been coding for a year and enjoyed what i have done recently, every parts of my journey exactly. My main focus these months is building accessible of being able to make lots of knowledge and digital experiences for variety and career of clients and my life.
+:performing_arts:	I’m Elvina Firmansyah. I'm a UI/UX Designer and Web Developer based in Indonesia. im passionate about coding, developing and designing various websites as well as working on projects related web development and UI/UX design. I've been coding for the past 2 years and have enjoyed every moment of it. My main focus is to create accessible knowledge and digital experiences both in my career and for the future.
 
-I'm excited to be a part of communities or industries that improves me about building the experiences and career of mine. i've personally been posting kinds of coding stuff and everything else on my blog that's be just made on Blogger <br>
+I'm excited to be a part of communities or industries that improves me about building the experiences and career of mine. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
   
-:space_invader:  I’m currently learning JS, React and Design<br>
+:space_invader:  I’m currently learning React<br>
 :blue_heart: Ask me about Bootstrap, HTML-CSS, and UI/UX Design<br>
-:dizzy: Fun fact: I absolutely love to learn English and Artificial Intelligence<br>
+:dizzy: Fun fact: I have a liking for English and Artificial Intelligence<br>
 :thought_balloon: Do you want contact me? :point_right: https://elvina.vercel.app/<br>
 :e-mail: How to reach me: elvinafirmansyah@gmail.com <br>
 :woman_teacher: How to support me: <a href="https://www.buymeacoffee.com/elvinafirmh">Buy me a Coffee</a> <br>
