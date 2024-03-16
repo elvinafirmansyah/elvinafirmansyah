@@ -27,7 +27,7 @@ I'm excited to be a part of communities or industries that improves me about bui
                             )](https://discord.com/users/902188905376415826)
 
 
-<h3 align="right">Contact Me::point_down:</h3>
+<h3 align="right">Contact Me :point_down:</h3>
 <p align="right">
 <a href="https://twitter.com/elvina_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elvina_one" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elvina-firmansyah-48195a224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvina-firmansyah-48195a224" height="30" width="40" /></a>
