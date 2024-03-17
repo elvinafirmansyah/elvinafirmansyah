@@ -7,10 +7,9 @@
 
 <div align="left">
   
-:performing_arts:	I’m Elvina. I'm a ```UI/UX Designer``` and ```Web Developer``` based in Indonesia. I'm passionate about coding, developing and designing various websites as well as working on projects related to web development and UI/UX design. I've been coding for the past 2 years and have enjoyed every moment of it. My main focus is to create accessible knowledge and digital experiences both in my career and for the future.
+:performing_arts:	I’m Elvina. I'm a ```UI/UX Designer``` and ```Web Developer``` based in Indonesia. I'm passionate about ```coding```, ```developing``` and ```designing``` various websites as well as working on projects related to web development and UI/UX design. I've been coding for the past 2 years and have enjoyed every moment of it. My main focus is to create ```accessible knowledge``` and ```digital experiences``` both in my career and for the future.
 
-I'm excited to be a part of communities or industries that improves me about building the experiences and career of mine. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
-
+I'm excited to be ```a part of communities or industries``` that improves me about building ```the experiences``` and ```my career```. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
 
 > :space_invader:  I’m currently learning ```React```<br>
 > :blue_heart: Ask me about ```Bootstrap```, ```HTML-CSS```, and ```UI/UX Design```<br>
@@ -32,10 +31,9 @@ I'm excited to be a part of communities or industries that improves me about bui
 <code><img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=white" /></code>
 <code><img alt="adobexd" src="https://img.shields.io/badge/-AdobeXD-ED2224?style=flat-square&logo=adobexd&logoColor=white" /></code>
 <code><img alt="tailwind" src="https://img.shields.io/badge/-TailwindCSS-00aeff?style=flat-square&logo=tailwindcss&logoColor=white" /></code>
-
-
-
  </p>
+
+</br>
 
 # Contact Me :telephone_receiver:
 > :earth_asia: ```My Website:``` https://elvina.vercel.app<br>
