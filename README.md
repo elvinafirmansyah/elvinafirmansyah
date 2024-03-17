@@ -1,5 +1,5 @@
 # <sub>I'm</sub> Elvina
-<img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/banner.png">
+<img width="100%" height="auto" align="center"  src="https://github.com/elvinafirmansyah/elvinafirmansyah/raw/main/bannergithub.png">
 
 <div align="left">
   <img src='https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&random=false&width=435&lines=Web+Developer;UI%26UX+Designer'></img>
