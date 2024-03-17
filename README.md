@@ -54,7 +54,7 @@ I'm excited to be a part of communities or industries that improves me about bui
 <br />
 
 # Support Me :thought_balloon:
-<p><a href="https://www.buymeacoffee.com/elvinafirmh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elvinafirmh" /></a></p>
+<a href="https://www.buymeacoffee.com/elvinafirmh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elvinafirmh" /></a>
 <div align="right"><img src="https://user-images.githubusercontent.com/85095985/149647703-3feadb98-6c47-43a1-b2fb-a0aa1a57db97.gif" width="150" height="150"></div>
 
 
