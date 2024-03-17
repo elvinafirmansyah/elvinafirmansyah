@@ -7,7 +7,7 @@
 
 <div align="left">
   
-:performing_arts:	I’m Elvina. I'm a ```UI/UX Designer``` and ```Web Developer``` based in Indonesia. I'm passionate about coding, developing and designing various websites as well as working on projects related web development and UI/UX design. I've been coding for the past 2 years and have enjoyed every moment of it. My main focus is to create accessible knowledge and digital experiences both in my career and for the future.
+:performing_arts:	I’m Elvina. I'm a ```UI/UX Designer``` and ```Web Developer``` based in Indonesia. I'm passionate about coding, developing and designing various websites as well as working on projects related to web development and UI/UX design. I've been coding for the past 2 years and have enjoyed every moment of it. My main focus is to create accessible knowledge and digital experiences both in my career and for the future.
 
 I'm excited to be a part of communities or industries that improves me about building the experiences and career of mine. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
 
