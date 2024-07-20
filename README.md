@@ -11,7 +11,7 @@
 
 I'm excited to be ```a part of communities or industries``` that improves me about building ```the experiences``` and ```my career```. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
 
-> :blue_heart: Ask me about Tech
+> :blue_heart: Ask me about ```Tech``` <br>
 > :dizzy: Fun fact: I have a liking for ```English``` and ```Artificial Intelligence```<br>
 </div>
 &nbsp;
