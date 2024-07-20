@@ -24,7 +24,7 @@ I'm excited to be ```a part of communities or industries``` that improves me abo
 <code><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7134eb?style=flat-square&logo=bootstrap&logoColor=white" /></code>
 <code><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></code>
 <code><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f55247?style=flat-square&logo=laravel&logoColor=white" /></code>
-<code><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></code>
+<code><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></code>
 <code><img alt="C#" src="https://img.shields.io/badge/-C%23-9b4993?style=flat-square&logo=csharp&logoColor=white" /></code>
 <code><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" /></code>
 <code><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
