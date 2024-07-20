@@ -11,7 +11,6 @@
 
 I'm excited to be ```a part of communities or industries``` that improves me about building ```the experiences``` and ```my career```. i've personally been posting kinds of coding stuff and everything else on my blog. <br>
 
-> :space_invader:  I’m currently learning ```React```<br>
 > :blue_heart: Ask me about ```Bootstrap```, ```HTML-CSS```, and ```UI/UX Design```<br>
 > :dizzy: Fun fact: I have a liking for ```English``` and ```Artificial Intelligence```<br>
 </div>
