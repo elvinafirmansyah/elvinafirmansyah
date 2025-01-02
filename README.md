@@ -35,7 +35,7 @@ I'm excited to be ```a part of communities or industries``` that improves me abo
 <code><img alt="tailwind" src="https://img.shields.io/badge/-TailwindCSS-00aeff?style=flat-square&logo=tailwindcss&logoColor=white" /></code>
  </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinafirmansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 </br>
