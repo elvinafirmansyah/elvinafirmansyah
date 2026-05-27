@@ -33,7 +33,7 @@ I'm excited to be ```a part of communities or industries``` that improves me abo
 <code><img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-18152E?style=flat-square&logo=adobephotoshop&logoColor=white" /></code>
 <code><img alt="adobexd" src="https://img.shields.io/badge/-AdobeXD-ED2224?style=flat-square&logo=adobexd&logoColor=white" /></code>
 <code><img alt="tailwind" src="https://img.shields.io/badge/-TailwindCSS-00aeff?style=flat-square&logo=tailwindcss&logoColor=white" /></code>
-<code><img alt="nextjs" src="https://img.shields.io/badge/-NEXTJS-000000?style=flat-square&logo=nextjs&logoColor=white" /></code>
+<code><img alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /></code>
  </p>
 
 
